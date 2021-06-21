@@ -11,11 +11,11 @@ continued on my commute. Ultimately, I ended up collapsing, having a seizure,
 and being taken to hospital.
 
 I still have seizures, but these are mostly focal/absences/myoclonic. I'm
-worried when I leave the house on my own, and I find it difficult. 
+worried when I leave the house on my own, and I find it difficult.
 
 I think the main thing is not knowing when a seizure will happen, and I've been
 shaken when the paramedics turn up, and I can't see, and they're taking bloods
-and inserting an cannula. 
+and inserting an cannula.
 
 My other worry is that someone will take my belongings. Of course, people are
 more likely to help, but there are always exceptions to the rule; this is
@@ -27,7 +27,7 @@ either.
 
 Recently, I've been beginning to think about 'seizure prediction'. There's been
 research on seizure prediction since the advent of digital EEG scans, but a
-large proportion of this research appears to rely on EEG monitoring. 
+large proportion of this research appears to rely on EEG monitoring.
 
 EEG monitoring is something I've ruled out. Whilst its excellent for monitoring
 brain activity, its also uncomfortable, impractical, and certainly not portable
@@ -38,7 +38,7 @@ what my approach will center around, amongst other inputs.
 
 The basis of what I've been researching is derived from seizure dogs. My
 question is the following: "If dogs can sense/smell oncoming seizures, why can't a
-computer?". 
+computer?".
 
 Using GSR to detect oncoming seizures, amongst other sensors, and combined with
 machine learning, we can continously improve detection rates, and reduce
@@ -48,7 +48,7 @@ The end result of this project will be a wrist-worn device that interprets heart
 rates, GSR inputs, and accelerometer data.
 
 To have such a device would certainly help those with epilespy to get to a safe
-place/position before a seizure starts. 
+place/position before a seizure starts.
 
 I don't intend to make the design proprietary; it should be open hardware, as
 many epilepsy devices are proprietary, and I think that such a device should
