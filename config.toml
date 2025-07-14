@@ -43,7 +43,6 @@ footnoteReturnLinkContents = "↩"
   tag = "tags"
   category = "categories"
 
-[author]
 # Author’s information
 [author]
   name = "Dom Rodriguez (shymega)"
